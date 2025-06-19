@@ -89,9 +89,9 @@ else:
             img = cv.imread(custom_path)
         else:
             print("Invalid path. Falling back to default image.")
-            img = cv.imread('Friends_face_detection.jpeg')
+            img = cv.imread('succession_default.webp')
     else:
-        img = cv.imread("Friends_face_detection.jpeg")
+        img = cv.imread("succession_default.webp")
 
     if img is None:
         print("Failed to load image.")
