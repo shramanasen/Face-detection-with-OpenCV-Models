@@ -14,7 +14,7 @@ You can also select one of the following face detection methods:
 - Haar Cascade 
 - LBP Cascade 
 
-Detected faces are displayed with bounding boxes. DNN method additionally shows the confidence scores.
+Detected faces are displayed with bounding boxes. The DNN method additionally shows the confidence scores.
 
 WARNINGS
 ---------
