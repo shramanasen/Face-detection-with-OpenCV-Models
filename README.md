@@ -19,4 +19,4 @@ Detected faces are displayed with bounding boxes. The DNN method additionally sh
 WARNINGS
 ---------
 
-Make sure to handle privacy permissions for custom path directories as well as webcam access for Pycharm or any other IDE especially for Mac for the code to run seamlessly. 
+Make sure to handle privacy permissions for custom path directories as well as webcam access for Pycharm or any other IDE especially for Mac, for the code to run seamlessly. 
