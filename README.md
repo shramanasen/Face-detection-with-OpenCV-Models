@@ -16,7 +16,8 @@ You can also select one of the following face detection methods:
 
 Detected faces are displayed with bounding boxes. The DNN method additionally shows the confidence scores.
 
-WARNINGS
+N.B.
 ---------
 
-Make sure to handle privacy permissions for custom path directories as well as webcam access for Pycharm or any other IDE especially for Mac, for the code to run seamlessly. 
+- The accuracy of face detection for Haar and LBP can increase or decrease by altering the 'minNeighbors' value responsible for sensitivity.
+- Make sure to handle privacy permissions for custom path directories as well as webcam access for Pycharm or any other IDE especially for Mac, for the code to run seamlessly. 
