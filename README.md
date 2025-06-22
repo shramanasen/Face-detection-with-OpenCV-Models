@@ -20,4 +20,4 @@ N.B.
 ---------
 
 - The accuracy of face detection for Haar and LBP can increase or decrease by altering the 'minNeighbors' value responsible for sensitivity.
-- Make sure to handle privacy permissions for custom path directories as well as webcam access for Pycharm or any other IDE especially for Mac, for the code to run seamlessly. 
+- Make sure to handle privacy permissions for custom path directories as well as webcam access for Pycharm or any other IDE, especially for Mac, for the code to run seamlessly. 
